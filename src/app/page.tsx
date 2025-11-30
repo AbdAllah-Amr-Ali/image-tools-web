@@ -199,6 +199,13 @@ const tools = [
     color: "bg-rose-500",
   },
   {
+    title: "Color Remover",
+    description: "Remove specific colors from image.",
+    icon: Droplets,
+    href: "/tools/color-remover",
+    color: "bg-purple-500",
+  },
+  {
     title: "Crop Image",
     description: "Crop and trim your images.",
     icon: Crop,
